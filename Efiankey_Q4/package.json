@@ -1,0 +1,14 @@
+{
+  "name": "efiankey_q4",
+  "version": "0.0.0",
+  "description": "Efiankey_Q4",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
